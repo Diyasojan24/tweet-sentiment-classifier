@@ -3,6 +3,7 @@
 
 ## **Problem and dataset**
 This project performs tweet‑level sentiment classification, predicting whether a tweet is negative, neutral, or positive from its text.
+
 ​
 The dataset is the “Tweet Sentiment Extraction” dataset, which contains about 27k tweets with sentiment labels and spans, from which I use the tweet text and overall sentiment label for classification.
 
